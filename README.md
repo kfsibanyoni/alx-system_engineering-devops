@@ -1,1 +1,1 @@
-Shell basics andscript writing
+Writing scripts and learning to use bash commands.
